@@ -62,7 +62,7 @@ li {
 }
 
 .contact-form {
-  padding-top: 1000px;
+  padding-top: 500px;
 }
 
 /* inputとtextareaのCSSを指定してください */
@@ -84,7 +84,7 @@ input,textarea{
 .footer {
   background-color: #2f5167;
   color: #fff;
-  height: 120px;
+  height: 240px;
   padding: 40px;
 }
 
@@ -98,5 +98,5 @@ input,textarea{
 }
 
 .footer-list li {
-  padding-bottom: 30px;
+  padding-bottom: 20px;
 }
